@@ -1,7 +1,5 @@
 # A First Example on Genetic Algorithms
-This is my first experiment with genetic algorithms. The following tries to efficiently brute-force an unknown string (while knowing it) which isn't too smart but you can imagine
-next versions would involved trying to guess the pre-images of values subjected to some map, efficiently instead of brute-force when the only
-other known solution would be brute-force guessing.
+This is my first experiment with genetic algorithms. The following tries to efficiently brute-force an unknown string (while knowing it) which isn't amazing, but you can imagine next versions would involved trying to guess the pre-images of values subjected to some map, efficiently instead of brute-force when the only other known solution would be brute-force guessing.
 
 ## Running the program
 
